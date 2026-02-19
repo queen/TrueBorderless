@@ -1,0 +1,13 @@
+[
+  {
+    "modid": "trueborderless",
+    "name": "TrueBorderless",
+    "description": "A mod that attempts to replace the default Minecraft fullscreen with true borderless fullscreen on older versions.",
+    "version": "${version}",
+    "mcversion": "1.8.9",
+    "authorList": [
+      "Queen"
+    ],
+    "url": "https://github.com/queen/TrueBorderless"
+  }
+]

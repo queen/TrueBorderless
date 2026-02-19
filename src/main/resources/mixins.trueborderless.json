@@ -1,0 +1,9 @@
+{
+  "package": "dev.queen.mixins",
+  "refmap": "mixins.trueborderless.refmap.json",
+  "minVersion": "0.7.0",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "MixinMinecraft"
+  ]
+}
